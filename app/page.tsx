@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from 'framer-motion';
-import { BookOpen, Brain, Sparkles, ArrowRight, Users, Target, Zap } from 'lucide-react';
+import { BookOpen, Brain, Sparkles, ArrowRight, Target, Zap } from 'lucide-react';
 import { useState } from 'react';
 
 export default function Home() {
@@ -152,7 +152,7 @@ export default function Home() {
                 إن النحو طريق العلم
               </p>
               <p className="text-sm text-gray-400 italic">
-                "Grammar is the path to knowledge"
+                &ldquo;Grammar is the path to knowledge&rdquo;
               </p>
             </div>
           </motion.div>
